@@ -48,9 +48,9 @@ The Kickstart project was developed as part of my journey to learn Ethereum and 
 
 4. Open the ethereum/factory.js file
 
-5. Replace <ADDRESS> with the actual address of the deployed CampaignFactory contract
+5. Replace `ADDRESS` with the actual address of the deployed CampaignFactory contract
 
-6. Open the ethereum/web3.js file and replace <YOUR_INFURA_URL> with your Infura API URL
+6. Open the ethereum/web3.js file and replace `YOUR_INFURA_URL` with your Infura API URL
 
 ### Running Tests
 
